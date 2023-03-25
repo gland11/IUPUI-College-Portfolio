@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_06/Lab_06_pre/Lab_06_pre.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_06/Lab_06_pre/db/Lab_06_pre.cbx.xml
+design_name = Lab_06_pre
+instance = comp, \x~output\, x~output, Lab_06_pre, 1
+instance = comp, \z~output\, z~output, Lab_06_pre, 1
+instance = comp, \a~input\, a~input, Lab_06_pre, 1
+instance = comp, \b~input\, b~input, Lab_06_pre, 1
+instance = comp, \x~0\, x~0, Lab_06_pre, 1
+instance = comp, \c~input\, c~input, Lab_06_pre, 1
+instance = comp, \d~input\, d~input, Lab_06_pre, 1
+instance = comp, \z~0\, z~0, Lab_06_pre, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, Lab_06_pre, 1

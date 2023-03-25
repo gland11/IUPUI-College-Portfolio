@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Original",
+					"strict" : false
+				},
+				{
+					"name" : "Coke",
+					"strict" : false
+				},
+				{
+					"name" : "Coca",
+					"strict" : false
+				},
+				{
+					"name" : "Cola",
+					"strict" : false
+				},
+				{
+					"name" : "Taste",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

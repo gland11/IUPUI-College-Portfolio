@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_05/Lab_05.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_05/db/Lab_05.cbx.xml
+design_name = Lab_05
+instance = comp, \x~output\, x~output, Lab_05, 1
+instance = comp, \c~input\, c~input, Lab_05, 1
+instance = comp, \a~input\, a~input, Lab_05, 1
+instance = comp, \b~input\, b~input, Lab_05, 1
+instance = comp, \x~0\, x~0, Lab_05, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, Lab_05, 1

@@ -1,0 +1,9 @@
+|Lab_06_pre
+a => x.IN0
+b => x.IN1
+c => z.IN0
+d => z.IN1
+x <= x.DB_MAX_OUTPUT_PORT_TYPE
+z <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
