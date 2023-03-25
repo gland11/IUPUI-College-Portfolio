@@ -1,0 +1,10 @@
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\bin\Debug\Landis_Lab02.exe.config
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\bin\Debug\Landis_Lab02.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\bin\Debug\Landis_Lab02.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.csprojResolveAssemblyReference.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.ButtonPractice.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.Properties.Resources.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.csproj.GenerateResource.Cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_02\Landis_Lab02\Landis_Lab02\obj\Debug\Landis_Lab02.pdb
