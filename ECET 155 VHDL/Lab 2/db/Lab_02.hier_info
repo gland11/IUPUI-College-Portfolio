@@ -1,0 +1,31 @@
+|Lab_02
+enable => Q[0].IN1
+enable => Q[1].IN1
+enable => Q[2].IN1
+enable => Q[3].IN1
+Sel[0] => Mux0.IN4
+Sel[0] => Mux1.IN5
+Sel[0] => Mux2.IN4
+Sel[0] => Mux3.IN5
+Sel[0] => Mux4.IN4
+Sel[0] => Mux5.IN5
+Sel[0] => Mux6.IN4
+Sel[0] => Mux7.IN5
+Sel[1] => Mux0.IN3
+Sel[1] => Mux1.IN4
+Sel[1] => Mux2.IN3
+Sel[1] => Mux3.IN4
+Sel[1] => Mux4.IN3
+Sel[1] => Mux5.IN4
+Sel[1] => Mux6.IN3
+Sel[1] => Mux7.IN4
+D[0] => Mux0.IN5
+D[1] => Mux2.IN5
+D[2] => Mux4.IN5
+D[3] => Mux6.IN5
+Q[0] << Q[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] << Q[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] << Q[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Q[3] << Q[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+
