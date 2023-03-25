@@ -1,0 +1,7 @@
+|Lab_Exam_02
+a => ~NO_FANOUT~
+b => x.IN0
+c => x.IN1
+x << x.DB_MAX_OUTPUT_PORT_TYPE
+
+

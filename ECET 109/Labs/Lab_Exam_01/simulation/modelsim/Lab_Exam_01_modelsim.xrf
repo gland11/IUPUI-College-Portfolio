@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_Exam_01/Lab_Exam_01.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_Exam_01/db/Lab_Exam_01.cbx.xml
+design_name = Lab_Exam_01
+instance = comp, \x~output\, x~output, Lab_Exam_01, 1
+instance = comp, \c~input\, c~input, Lab_Exam_01, 1
+instance = comp, \a~input\, a~input, Lab_Exam_01, 1
+instance = comp, \x~0\, x~0, Lab_Exam_01, 1
+instance = comp, \b~input\, b~input, Lab_Exam_01, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, Lab_Exam_01, 1
