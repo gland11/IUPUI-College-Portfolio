@@ -1,8 +1,0 @@
-|Lab_05_pre
-a => peanut_butter.IN0
-b => peanut_butter.IN1
-b => jelly.IN0
-c => jelly.IN1
-x << x.DB_MAX_OUTPUT_PORT_TYPE
-
-

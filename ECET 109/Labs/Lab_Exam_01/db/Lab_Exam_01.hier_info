@@ -1,9 +1,0 @@
-|Lab_Exam_01
-a => Joe.IN0
-a => Tabas.IN0
-b => Joe.IN1
-c => Joe.IN1
-c => Tabas.IN1
-x << x.DB_MAX_OUTPUT_PORT_TYPE
-
-

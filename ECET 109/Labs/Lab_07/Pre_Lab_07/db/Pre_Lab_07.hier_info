@@ -1,7 +1,0 @@
-|Pre_Lab_07
-led[0] << <VCC>
-led[1] << <GND>
-led[2] << <VCC>
-led[3] << <GND>
-
-

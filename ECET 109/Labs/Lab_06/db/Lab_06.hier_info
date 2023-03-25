@@ -1,8 +1,0 @@
-|Lab_06
-Coke => Pepsi.IN0
-Coca => Pepsi.IN1
-Cola => Sucks.IN0
-Taste => Sucks.IN1
-Original << Original.DB_MAX_OUTPUT_PORT_TYPE
-
-
