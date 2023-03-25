@@ -1,0 +1,7 @@
+|Lab_03_pre
+sw1 => led1.DATAIN
+sw2 => led2.DATAIN
+led1 << sw1.DB_MAX_OUTPUT_PORT_TYPE
+led2 << sw2.DB_MAX_OUTPUT_PORT_TYPE
+
+
