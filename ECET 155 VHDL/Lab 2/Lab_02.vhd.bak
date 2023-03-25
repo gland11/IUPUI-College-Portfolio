@@ -1,0 +1,57 @@
+-- George Landis
+-- ECET 155
+-- Lab 02
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity Lab_02 is
+port(enable : in std_logic; 
+	S : in std_logic_vector(1 downto 0);
+	D : in std_logic_vector(3 downto 0);
+	Q:out std_logic_vector(3 downto 0);		  
+end entity;
+
+Architecture D_Latch of Lab_02 is
+	begin
+		Process(D)									-- "Process" variable for storage.
+		variable box: std_logic;  					 -- std_logic_vector in place of logic for multiple storage spaces
+		begin
+		If enable = '1' then 																		-- Adding Nested IF with a logical test for enable
+			if(S0='0' and S1='0' and D0='0' and D1='0' and D2='0' and D3='0')then
+			Q0='0'
+			Q1='0'
+			Q2='0'
+			Q3='0'
+			box:= box;																							
+			elsif(S0='0' and S1='0' and D0='1' and D1='0' and D2='0' and D3='0')) then
+			box:= box;
+			Q0='1'
+			Q1='0'
+			Q2='0'
+			Q3='0'																									
+			elsif(S0='1' and S1='0' and D0='0' and D1='1' and D2='0' and D3='0')) then
+			box:= box;
+			Q0='0'
+			Q1='1'
+			Q2='0'
+			Q3='0'
+			elsif(S0='0' and S1='1' and D0='0' and D1='0' and D2='1' and D3='0')then
+			Q0='0'
+			Q1='0'
+			Q2='1'
+			Q3='0'
+			box:= box;
+			elsif(S0='1' and S1='1' and D0='0' and D1='0' and D2='0' and D3='1')then
+			Q0='0'
+			Q1='0'
+			Q2='0'
+			Q3='1'
+			box:= box;
+			end if;
+			Q<=box;
+		Else Q <= '0';
+		end if;							
+		end PROCESS;
+end D_Latch;
