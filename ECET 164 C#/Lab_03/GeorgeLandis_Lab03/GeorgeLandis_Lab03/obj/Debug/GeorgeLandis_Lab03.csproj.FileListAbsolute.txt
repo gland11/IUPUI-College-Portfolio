@@ -1,0 +1,10 @@
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\bin\Debug\GeorgeLandis_Lab03.exe.config
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\bin\Debug\GeorgeLandis_Lab03.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\bin\Debug\GeorgeLandis_Lab03.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.csprojResolveAssemblyReference.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.Properties.Resources.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.temperatureConverter.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.csproj.GenerateResource.Cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.csproj.CoreCompileInputs.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_03\GeorgeLandis_Lab03\GeorgeLandis_Lab03\obj\Debug\GeorgeLandis_Lab03.pdb

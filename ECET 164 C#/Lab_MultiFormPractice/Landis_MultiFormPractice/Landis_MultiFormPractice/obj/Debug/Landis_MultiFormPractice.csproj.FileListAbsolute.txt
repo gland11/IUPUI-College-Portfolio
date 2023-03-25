@@ -1,0 +1,11 @@
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\bin\Debug\Landis_MultiFormPractice.exe.config
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\bin\Debug\Landis_MultiFormPractice.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\bin\Debug\Landis_MultiFormPractice.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.csprojResolveAssemblyReference.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.mainForm.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.Properties.Resources.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.csproj.GenerateResource.Cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.csproj.CoreCompileInputs.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_MultiFormPractice\Landis_MultiFormPractice\Landis_MultiFormPractice\obj\Debug\Landis_MultiFormPractice.nutritionForm.resources
