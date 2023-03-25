@@ -1,0 +1,10 @@
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\bin\Debug\LandisLab08_164.exe.config
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\bin\Debug\LandisLab08_164.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\bin\Debug\LandisLab08_164.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.DisplaySales.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.Properties.Resources.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.csproj.GenerateResource.Cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.csproj.CoreCompileInputs.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_08\LandisLab08_164\LandisLab08_164\obj\Debug\LandisLab08_164.csproj.AssemblyReference.cache
