@@ -1,0 +1,19 @@
+|Lab_08
+A[0] => Sum.IN0
+A[0] => Sig[0].IN0
+A[1] => Sig[1].IN0
+A[1] => Sig[2].IN0
+A[2] => Sig[5].IN0
+A[2] => Sig[7].IN0
+B[0] => Sum.IN1
+B[0] => Sig[0].IN1
+B[1] => Sig[1].IN1
+B[1] => Sig[2].IN1
+B[2] => Sig[5].IN1
+B[2] => Sig[7].IN1
+Sum[0] <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Sum[1] <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Sum[2] <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Carryout <= Carryout.DB_MAX_OUTPUT_PORT_TYPE
+
+

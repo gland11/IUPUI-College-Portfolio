@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_07/Pre_Lab_07/Pre_Lab_07.vhd
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_07/Pre_Lab_07/Chain2.cdf
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_07/Pre_Lab_07/Chain3.cdf
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_07/Pre_Lab_07/output_files/Chain4.cdf
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_07/Pre_Lab_07/db/Pre_Lab_07.cbx.xml
+design_name = Pre_Lab_07
+instance = comp, \led[0]~output\, led[0]~output, Pre_Lab_07, 1
+instance = comp, \led[1]~output\, led[1]~output, Pre_Lab_07, 1
+instance = comp, \led[2]~output\, led[2]~output, Pre_Lab_07, 1
+instance = comp, \led[3]~output\, led[3]~output, Pre_Lab_07, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, Pre_Lab_07, 1

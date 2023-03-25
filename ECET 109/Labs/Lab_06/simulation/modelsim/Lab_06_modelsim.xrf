@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_06/Lab_06.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera_lite/16.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/wsuge/Desktop/IUPUI Fall 2017/ECET 109/Labs/Lab_06/db/Lab_06.cbx.xml
+design_name = Lab_06
+instance = comp, \Original~output\, Original~output, Lab_06, 1
+instance = comp, \Coca~input\, Coca~input, Lab_06, 1
+instance = comp, \Cola~input\, Cola~input, Lab_06, 1
+instance = comp, \Coke~input\, Coke~input, Lab_06, 1
+instance = comp, \Taste~input\, Taste~input, Lab_06, 1
+instance = comp, \Original~0\, Original~0, Lab_06, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, Lab_06, 1
