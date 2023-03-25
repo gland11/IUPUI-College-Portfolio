@@ -1,0 +1,34 @@
+|Lab_10_Pre
+A1 => Greater.IN0
+A1 => Greater.IN0
+A1 => Equal.IN0
+A1 => Equal.IN0
+A1 => Equal.IN0
+A1 => Less.IN0
+A0 => Greater.IN0
+A0 => Greater.IN1
+A0 => Equal.IN1
+A0 => Equal.IN1
+A0 => Equal.IN1
+A0 => Less.IN0
+B1 => Equal.IN1
+B1 => Equal.IN1
+B1 => Less.IN1
+B1 => Less.IN1
+B1 => Greater.IN1
+B1 => Greater.IN1
+B1 => Equal.IN1
+B1 => Equal.IN1
+B0 => Equal.IN1
+B0 => Equal.IN1
+B0 => Less.IN1
+B0 => Less.IN1
+B0 => Greater.IN1
+B0 => Greater.IN1
+B0 => Equal.IN1
+B0 => Equal.IN1
+Greater <= Greater.DB_MAX_OUTPUT_PORT_TYPE
+Equal <= Equal.DB_MAX_OUTPUT_PORT_TYPE
+Less <= Less.DB_MAX_OUTPUT_PORT_TYPE
+
+
