@@ -1,0 +1,10 @@
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\bin\Debug\LandisLab05_164.exe.config
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\bin\Debug\LandisLab05_164.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\bin\Debug\LandisLab05_164.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.Properties.Resources.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.WattsCalc.resources
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.csproj.GenerateResource.Cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.csproj.CoreCompileInputs.cache
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.exe
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.pdb
+C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_05\LandisLab05_164\LandisLab05_164\obj\Debug\LandisLab05_164.csprojAssemblyReference.cache
