@@ -1,0 +1,10 @@
+|Lab_01
+a[0] => Add0.IN2
+a[1] => Add0.IN1
+b[0] => Add0.IN4
+b[1] => Add0.IN3
+sum[0] << Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[1] << Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[2] << Add0.DB_MAX_OUTPUT_PORT_TYPE
+
+
