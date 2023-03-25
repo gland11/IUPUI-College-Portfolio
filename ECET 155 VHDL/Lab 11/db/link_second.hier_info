@@ -1,0 +1,23 @@
+|link_second
+gpio[0] => Qf[0].DATAIN
+gpio[1] => Qf[1].DATAIN
+gpio[2] => Qf[2].DATAIN
+gpio[3] => Qf[3].DATAIN
+gpio[4] => Qf[4].DATAIN
+gpio[5] => Qf[5].DATAIN
+gpio[6] => Qf[6].DATAIN
+gpio[7] => Qf[7].DATAIN
+gpio[8] => Qf[8].DATAIN
+gpio[9] => Qf[9].DATAIN
+Qf[0] << gpio[0].DB_MAX_OUTPUT_PORT_TYPE
+Qf[1] << gpio[1].DB_MAX_OUTPUT_PORT_TYPE
+Qf[2] << gpio[2].DB_MAX_OUTPUT_PORT_TYPE
+Qf[3] << gpio[3].DB_MAX_OUTPUT_PORT_TYPE
+Qf[4] << gpio[4].DB_MAX_OUTPUT_PORT_TYPE
+Qf[5] << gpio[5].DB_MAX_OUTPUT_PORT_TYPE
+Qf[6] << gpio[6].DB_MAX_OUTPUT_PORT_TYPE
+Qf[7] << gpio[7].DB_MAX_OUTPUT_PORT_TYPE
+Qf[8] << gpio[8].DB_MAX_OUTPUT_PORT_TYPE
+Qf[9] << gpio[9].DB_MAX_OUTPUT_PORT_TYPE
+
+
