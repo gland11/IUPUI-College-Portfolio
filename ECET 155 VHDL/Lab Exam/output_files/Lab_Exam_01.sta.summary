@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'cake'
+Slack : -2.812
+TNS   : -120.355
+
+Type  : Slow 1100mV 85C Model Hold 'cake'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'cake'
+Slack : -0.394
+TNS   : -24.663
+
+Type  : Slow 1100mV 0C Model Setup 'cake'
+Slack : -2.756
+TNS   : -118.473
+
+Type  : Slow 1100mV 0C Model Hold 'cake'
+Slack : 0.441
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'cake'
+Slack : -0.394
+TNS   : -24.670
+
+Type  : Fast 1100mV 85C Model Setup 'cake'
+Slack : -1.300
+TNS   : -55.139
+
+Type  : Fast 1100mV 85C Model Hold 'cake'
+Slack : 0.159
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'cake'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'cake'
+Slack : -1.151
+TNS   : -48.736
+
+Type  : Fast 1100mV 0C Model Hold 'cake'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'cake'
+Slack : 0.075
+TNS   : 0.000
+
+------------------------------------------------------------
