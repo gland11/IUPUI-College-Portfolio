@@ -1,0 +1,69 @@
+-- George Landis
+-- ECET 155
+-- Lab_04
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use ieee.std_logic_unsigned.all;
+
+entity Lab_04 is 
+	port (clk, R : in std_logic;
+			SEL : in std_logic_vector (1 downto 0);
+			Qf : out std_logic);
+end entity;
+
+architecture count of Lab_04 is
+signal cake : std_logic;
+signal time_count : integer:=0;
+
+begin
+
+process (R, clk)
+begin
+
+if (R = '0' ) then
+time_count <=0; -- RESET Button stop blinking
+cake <= '0'	;
+
+elsif rising_edge (clk) then
+	case SEL is
+		When "00" =>
+				if (time_count = (1249999)) then 
+						cake <= not cake ;
+							time_count <= 0 ;
+		
+								else
+									time_count <= time_count+1;
+	
+		When "01" =>
+				if (time_count = (1666665)) then 
+						cake <= not cake ;
+							time_count <= 0 ;
+		
+								else
+									time_count <= time_count+1;
+		When "10" =>
+				if (time_count = (3571427)) then 
+					cake <= not cake ;
+						time_count <= 0 ;
+		
+							else
+								time_count <= time_count+1;
+		When "00" =>
+				if (time_count = (12499999)) then 
+					cake <= not cake ;
+						time_count <= 0 ;
+		
+							else
+								time_count <= time_count+1;
+end case;
+end if;
+
+
+Qf <= cake;
+end if;
+
+end process;
+
+end count;
