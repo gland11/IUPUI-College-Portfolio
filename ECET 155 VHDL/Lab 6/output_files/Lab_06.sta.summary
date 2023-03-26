@@ -1,0 +1,245 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -5.650
+TNS   : -119.639
+
+Type  : Slow 1100mV 85C Model Setup 'clk2'
+Slack : -5.387
+TNS   : -114.698
+
+Type  : Slow 1100mV 85C Model Setup 'cake2'
+Slack : -4.018
+TNS   : -20.087
+
+Type  : Slow 1100mV 85C Model Setup 'cake'
+Slack : -3.809
+TNS   : -19.033
+
+Type  : Slow 1100mV 85C Model Setup 'hit'
+Slack : -2.712
+TNS   : -2.712
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk2'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'cake'
+Slack : 0.681
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'cake2'
+Slack : 0.685
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'hit'
+Slack : 0.863
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk2'
+Slack : -0.468
+TNS   : -25.259
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -21.579
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'cake2'
+Slack : -0.394
+TNS   : -2.613
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'cake'
+Slack : -0.394
+TNS   : -2.557
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'hit'
+Slack : -0.394
+TNS   : -0.582
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -5.711
+TNS   : -118.016
+
+Type  : Slow 1100mV 0C Model Setup 'clk2'
+Slack : -5.403
+TNS   : -111.913
+
+Type  : Slow 1100mV 0C Model Setup 'cake2'
+Slack : -3.846
+TNS   : -19.224
+
+Type  : Slow 1100mV 0C Model Setup 'cake'
+Slack : -3.624
+TNS   : -18.106
+
+Type  : Slow 1100mV 0C Model Setup 'hit'
+Slack : -2.509
+TNS   : -2.509
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.380
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clk2'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'hit'
+Slack : 0.638
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'cake'
+Slack : 0.655
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'cake2'
+Slack : 0.689
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk2'
+Slack : -0.444
+TNS   : -27.331
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -23.280
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'cake2'
+Slack : -0.394
+TNS   : -2.621
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'cake'
+Slack : -0.394
+TNS   : -2.564
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'hit'
+Slack : -0.394
+TNS   : -0.663
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.306
+TNS   : -54.418
+
+Type  : Fast 1100mV 85C Model Setup 'clk2'
+Slack : -3.195
+TNS   : -48.080
+
+Type  : Fast 1100mV 85C Model Setup 'cake2'
+Slack : -2.559
+TNS   : -12.795
+
+Type  : Fast 1100mV 85C Model Setup 'cake'
+Slack : -2.374
+TNS   : -11.868
+
+Type  : Fast 1100mV 85C Model Setup 'hit'
+Slack : -1.633
+TNS   : -1.633
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk2'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'hit'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'cake'
+Slack : 0.284
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'cake2'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk2'
+Slack : -0.445
+TNS   : -4.653
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.377
+TNS   : -3.836
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'hit'
+Slack : -0.323
+TNS   : -0.329
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'cake2'
+Slack : 0.098
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'cake'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -2.994
+TNS   : -47.342
+
+Type  : Fast 1100mV 0C Model Setup 'clk2'
+Slack : -2.776
+TNS   : -40.990
+
+Type  : Fast 1100mV 0C Model Setup 'cake2'
+Slack : -2.429
+TNS   : -12.145
+
+Type  : Fast 1100mV 0C Model Setup 'cake'
+Slack : -2.262
+TNS   : -11.306
+
+Type  : Fast 1100mV 0C Model Setup 'hit'
+Slack : -1.270
+TNS   : -1.270
+
+Type  : Fast 1100mV 0C Model Hold 'hit'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk2'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'cake2'
+Slack : 0.258
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'cake'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk2'
+Slack : -0.417
+TNS   : -4.477
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.385
+TNS   : -3.797
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'hit'
+Slack : -0.353
+TNS   : -0.380
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'cake2'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'cake'
+Slack : 0.161
+TNS   : 0.000
+
+------------------------------------------------------------
