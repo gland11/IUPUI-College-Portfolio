@@ -1,0 +1,51 @@
+entity Pre_Lab_07 is
+	port(clk, reset : in std_logic;
+			display : out std_logic_vector (6 downto 0)
+		  );
+end entity;
+
+architecture Lab of Pre_Lab_07 is
+	signal moded_clk : std_logic; -- gives us a basic place for storage
+	signal count : std_logic_vector (2 downto 0); -- gives us our 3 bits
+	signal seg : std_logic_vector (6 downto 0); -- output for display 7 seg
+	signal time_count : integer := 0; -- setting the counter to start at 0
+	
+begin
+	process (clk, reset) -- Freq Divider
+		begin
+			if (reset = '0') then -- when the btn is down (0)
+					time_count <= 0; -- set counter to 0
+					moded_clk <= '0'; -- and storage to 0
+			elsif rising_edge (clk) then -- use the rising_edge of the clk
+				if (time_count = 4499999) then -- if statement for time_count at a __Hz
+						moded_clk <= not moded_clk;-- then invirt the moded_clk
+						time_count <= 0; -- and time count to 0
+				else
+					time_count <= time_count+1; -- else add 1 to the time_count
+				end if;
+			end if;
+	end process;
+	
+	process (moded_clk, reset) -- process for counter
+		begin
+			if reset = '0' then
+				count <= "000"; -- resets count to 0
+				seg <= "0100100"; -- set display to show 2
+			elsif (rising_edge (moded_clk)) then
+				if (count = "011") then -- if count = 3
+					 count <= "000"; --set count to 0
+				else
+					count <= count+1; -- else if count is not 7 add 1 to it
+				end if;
+			end if;
+		case count is
+					when "000"=>seg<="0100100"; -- when count 0 = Seg 2 
+					when "001"=>seg<="0010010"; -- when count 1 = Seg 5
+					when "010"=>seg<="0000000"; -- when count 2 = seg 8
+					when "011"=>seg<="0001000"; -- when count 3 = seg A
+					when others=>seg<= null; -- when count is other = seg is null nothing
+		end case;
+	end process;
+display <= seg;
+end Lab;
+	
