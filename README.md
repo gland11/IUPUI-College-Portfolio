@@ -29,7 +29,7 @@ Each course is focused on the coding language stated beside it. Below is a more 
   - This course emphasizes advanced applications of embedded microcontrollers, included are microcontroller architecture, use of advanced programmable counter/timer arrays, interrupts, multi-tasking, analog interfaces, hardware abstraction and their peripherals.
 
 - ECET 334
- - This course is to advance the programming skils of the students and learn Android programming in app development and working with a FEZ board and programming in the C base language with microcontrollers. Then putting the two together to program a robot that would be able to be controlled via the Android App
+  - This course is to advance the programming skils of the students and learn Android programming in app development and working with a FEZ board and programming in the C base language with microcontrollers. Then putting the two together to program a robot that would be able to be controlled via the Android App
  
 - ECET 434 PC SYSTEMS II
   - Real-time PC-based operating systems. Programming Graphical User for control applications using an object-oriented language. Embedded PC hardware, busses, and peripheral programming. Writing device drivers.
