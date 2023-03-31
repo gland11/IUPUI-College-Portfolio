@@ -1,7 +1,0 @@
-
-State Machine - |Lab_08|present_state
-Name present_state.fifteen_cent present_state.ten_cent present_state.five_cent present_state.zero_cent 
-present_state.zero_cent 0 0 0 0 
-present_state.five_cent 0 0 1 1 
-present_state.ten_cent 0 1 0 1 
-present_state.fifteen_cent 1 0 0 1 
