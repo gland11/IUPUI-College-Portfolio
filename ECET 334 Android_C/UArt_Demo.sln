@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UArt_Demo", "UArt_Demo\UArt_Demo.csproj", "{5388D82C-1ABC-407C-A8BE-46E48F30E196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5388D82C-1ABC-407C-A8BE-46E48F30E196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5388D82C-1ABC-407C-A8BE-46E48F30E196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5388D82C-1ABC-407C-A8BE-46E48F30E196}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5388D82C-1ABC-407C-A8BE-46E48F30E196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5388D82C-1ABC-407C-A8BE-46E48F30E196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5388D82C-1ABC-407C-A8BE-46E48F30E196}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CE64D9-50A6-429D-A8D5-A5D8A1C82327}
+	EndGlobalSection
+EndGlobal
