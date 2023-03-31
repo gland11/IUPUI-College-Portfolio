@@ -1,3 +1,0 @@
-After hour 1 the distance is 60 miles.
-After hour 2 the distance is 120 miles.
-After hour 3 the distance is 180 miles.

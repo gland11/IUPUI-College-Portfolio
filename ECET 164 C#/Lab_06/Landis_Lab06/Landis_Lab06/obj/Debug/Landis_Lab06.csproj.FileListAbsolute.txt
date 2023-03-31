@@ -1,9 +1,0 @@
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\bin\Debug\Landis_Lab06.exe.config
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\bin\Debug\Landis_Lab06.exe
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\bin\Debug\Landis_Lab06.pdb
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\obj\Debug\Landis_Lab06.Properties.Resources.resources
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\obj\Debug\Landis_Lab06.csproj.GenerateResource.Cache
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\obj\Debug\Landis_Lab06.exe
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\obj\Debug\Landis_Lab06.pdb
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\obj\Debug\Landis_Lab06.DisCalc.resources
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_06\Landis_Lab06\Landis_Lab06\obj\Debug\Landis_Lab06.csprojAssemblyReference.cache

@@ -1,9 +1,0 @@
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\bin\Debug\Gothic_Wiggles_Lab_10-11.exe.config
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\bin\Debug\Gothic_Wiggles_Lab_10-11.exe
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\bin\Debug\Gothic_Wiggles_Lab_10-11.pdb
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\obj\Debug\Gothic_Wiggles_Lab_10_11.Vend.resources
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\obj\Debug\Gothic_Wiggles_Lab_10_11.Properties.Resources.resources
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\obj\Debug\Gothic_Wiggles_Lab_10-11.csproj.GenerateResource.Cache
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\obj\Debug\Gothic_Wiggles_Lab_10-11.csproj.CoreCompileInputs.cache
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\obj\Debug\Gothic_Wiggles_Lab_10-11.exe
-C:\Users\wsuge\Desktop\IUPUI\Spring 2018\ECET 164\Labs\Lab_10_11\Gothic_Wiggles_Lab_10-11\Gothic_Wiggles_Lab_10-11\obj\Debug\Gothic_Wiggles_Lab_10-11.pdb
